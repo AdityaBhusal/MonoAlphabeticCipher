@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\obj\Debug\net8.0\MonoalphabeticCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\obj\Debug\net8.0\MonoalphabeticCipher.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\obj\Debug\net8.0\MonoalphabeticCipher.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\obj\Debug\net8.0\MonoalphabeticCipher.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\bin\Debug\net8.0\MonoalphabeticCipher.exe
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\bin\Debug\net8.0\MonoalphabeticCipher.deps.json
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\bin\Debug\net8.0\MonoalphabeticCipher.runtimeconfig.json
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\bin\Debug\net8.0\MonoalphabeticCipher.dll
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\bin\Debug\net8.0\MonoalphabeticCipher.pdb
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\obj\Debug\net8.0\MonoalphabeticCipher.dll
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\obj\Debug\net8.0\refint\MonoalphabeticCipher.dll
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\obj\Debug\net8.0\MonoalphabeticCipher.pdb
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\obj\Debug\net8.0\MonoalphabeticCipher.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Desktop\CryptographyAssignments\lab2\MonoalphabeticCipher\obj\Debug\net8.0\ref\MonoalphabeticCipher.dll
